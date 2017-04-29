@@ -392,7 +392,7 @@ a.gitment-editor-footer-tip:hover {
 .gitment-editor-submit,
 .gitment-comments-init-btn {
   color: #fff;
-  background-color: #00BCD4;
+  background-color: #15ac67;
 
   position: relative;
   display: inline-block;
@@ -416,7 +416,7 @@ a.gitment-editor-footer-tip:hover {
 
 .gitment-editor-submit:hover,
 .gitment-comments-init-btn:hover {
-  background-color: #15ac67;
+  background-color: #42b983;
 }
 
 .gitment-comments-init-btn:disabled,
