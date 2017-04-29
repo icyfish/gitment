@@ -235,7 +235,7 @@ a.gitment-footer-project-link,
 a.gitment-footer-project-link:visited,
 a.gitment-editor-login-link,
 a.gitment-editor-login-link:visited {
-  color: #2196F3;
+  color: #42b983;
 }
 
 a.gitment-editor-logout-link,
@@ -244,7 +244,7 @@ a.gitment-editor-logout-link:visited {
 }
 
 a.gitment-editor-logout-link:hover {
-  color: #2196F3;
+  color: #42b983;
   text-decoration: none;
 }
 
@@ -362,7 +362,7 @@ a.gitment-editor-footer-tip {
 }
 
 a.gitment-editor-footer-tip:hover {
-  color: #2196F3;
+  color: #42b983;
   text-decoration: none;
 }
 
