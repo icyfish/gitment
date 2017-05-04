@@ -1,5 +1,16 @@
-# Gitment
+# Gitment 
 
+
+## Modifications: 
+
+- comment button and link color
+
+## TODO:
+
+- While the header content is "container", comment container will be right down below.
+(coming up with a workaround for now: replace "container" with other content.)
+
+# Original Documentation
 
 [![NPM version][npm-image]][npm-url]
 
